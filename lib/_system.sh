@@ -29,7 +29,7 @@ EOF
 #######################################
 system_git_clone() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código Whaticket...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Whaticket deve estar salvo no diretorio do usuario deploy!${GRAY_LIGHT}"
   printf "\n\n"
 
 
